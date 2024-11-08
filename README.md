@@ -45,7 +45,9 @@ This project involved constructing and optimizing an investment portfolio using 
 - **Portfolio Optimization**: Applied MVO using Monte Carlo simulations to construct efficient portfolios. Generated scatter plots of risk/return profiles to identify minimum volatility and maximum Sharpe ratio portfolios.
 - **Risk and Correlation Analysis**: Calculated and visualized the correlation matrix to inform asset weightings and diversification strategies.
 
-📌 Conclusion
+---
+
+## 📌 Conclusion
 Through this project, we constructed a robust investment portfolio that balances returns with risk. By combining technical strategies and optimization techniques, we achieved:
 
 High Sharpe Ratio: Optimized asset weights yielded a Sharpe ratio above 1.0, outperforming individual strategies.
